@@ -1,0 +1,10 @@
+streamlit
+gtts
+SpeechRecognition
+pydub
+textblob
+wordcloud
+matplotlib
+nltk
+spacy
+en_core_web_sm
